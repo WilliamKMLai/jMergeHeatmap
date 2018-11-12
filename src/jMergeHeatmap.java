@@ -104,7 +104,7 @@ public class jMergeHeatmap {
 	}
 	
 	public static void printUsage() {
-		System.err.println("\nUsage: java -jar MergeHeatMap.jar -s [sense.png] -a [anti.png] -o [Output file]");
+		System.err.println("\nUsage: java -jar jMergeHeatmap.jar -s [sense.png] -a [anti.png] -o [Output file]");
 		System.err.println("-----------------------------------------");
 		System.err.println("Required Parameter:");
 		System.err.println("Sense PNG:\t-s");
